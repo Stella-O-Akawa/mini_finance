@@ -1146,4 +1146,16 @@ strong {
     font-size: var(--h6-font-size);
   }
 }
+footer {
+  background: #f8f8f8;
+  font-size: 14px;
+  color: #333;
+  padding: 15px;
+}
 
+@media (max-width: 480px) {
+  footer {
+    font-size: 12px;
+    padding: 10px;
+  }
+}
