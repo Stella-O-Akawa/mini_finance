@@ -6,6 +6,10 @@ https://www.tooplate.com/view/2135-mini-finance
 
 */
 
+body {
+  border: 5px solid red;
+}
+
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
